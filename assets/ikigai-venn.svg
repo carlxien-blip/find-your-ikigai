@@ -1,0 +1,21 @@
+<svg viewBox="0 0 680 424" width="680" height="424" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Ikigai 四个维度的交集</title>
+<desc>喜欢、擅长、世界需要、能赚钱四个圆的交集，就是你的 Ikigai。</desc>
+<style>
+.t1{font-family:system-ui,-apple-system,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;font-size:14px;font-weight:500}
+.t2{font-family:system-ui,-apple-system,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;font-size:11px;font-weight:400}
+</style>
+<circle cx="272" cy="155" r="115" fill="#EEEDFE" fill-opacity="0.55" stroke="#534AB7" stroke-width="1"/>
+<circle cx="408" cy="155" r="115" fill="#EEEDFE" fill-opacity="0.55" stroke="#7F77DD" stroke-width="1"/>
+<circle cx="272" cy="289" r="115" fill="#E1F5EE" fill-opacity="0.55" stroke="#0F6E56" stroke-width="1"/>
+<circle cx="408" cy="289" r="115" fill="#E1F5EE" fill-opacity="0.55" stroke="#1D9E75" stroke-width="1"/>
+<circle cx="340" cy="222" r="5" fill="#2C2C2A"/>
+<text class="t1" x="230" y="103" text-anchor="middle" fill="#3C3489">喜欢</text>
+<text class="t2" x="230" y="122" text-anchor="middle" fill="#534AB7">what you love</text>
+<text class="t1" x="450" y="103" text-anchor="middle" fill="#3C3489">擅长</text>
+<text class="t2" x="450" y="122" text-anchor="middle" fill="#534AB7">what you're good at</text>
+<text class="t1" x="230" y="337" text-anchor="middle" fill="#085041">世界需要</text>
+<text class="t2" x="230" y="356" text-anchor="middle" fill="#0F6E56">what the world needs</text>
+<text class="t1" x="450" y="337" text-anchor="middle" fill="#085041">能赚钱</text>
+<text class="t2" x="450" y="356" text-anchor="middle" fill="#0F6E56">what you're paid for</text>
+</svg>
